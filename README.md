@@ -1,4 +1,5 @@
 📊 Customer Behavior Trend Analysis
+
 📌 Project Overview
 
 This project analyzes customer purchasing patterns to uncover spending trends, subscription-driven revenue insights, and demographic-based performance metrics. The goal was to improve business decision-making through data cleaning, automated preprocessing, and advanced SQL analytics.
